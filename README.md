@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yong509&hide=html,java,CMake,c%2B%2B,css&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yong509&hide=html,java,CMake,c%2B%2B&layout=compact&theme=tokyonight"/>
 
 <!--
 **Yong509/Yong509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
