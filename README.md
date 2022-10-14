@@ -1,5 +1,4 @@
 <div align="center">
-  ### Hi there 👋
   <br>
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yong509&hide=html,java,CMake,c%2B%2B&layout=compact&theme=tokyonight"/><br><br>
