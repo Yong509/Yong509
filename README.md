@@ -1,6 +1,4 @@
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yong509&layout=compact&theme=tokyonight"/><br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
