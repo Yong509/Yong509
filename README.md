@@ -1,4 +1,4 @@
-[![An image of @yong509's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yong509)](https://holopin.io/@yong509)
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
