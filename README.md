@@ -1,5 +1,5 @@
 [![An image of @yong509's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yong509)](https://holopin.io/@yong509)
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
@@ -9,6 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
 </div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yong509)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
