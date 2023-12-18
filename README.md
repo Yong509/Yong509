@@ -15,7 +15,7 @@
 
 
 ###
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong509&layout=compact&hide=CMake,HCL,HTML)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yong509&layout=compact&hide=CMake,HCL,HTML,C++)
 
 
 
